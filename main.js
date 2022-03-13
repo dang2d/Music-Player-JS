@@ -45,64 +45,76 @@ const app = {
 
     songs: [
         {
-            name: 'Ukulele',
-            singer: 'Benjamin',
-            image: 'https://www.bensound.com/bensound-img/ukulele.jpg',
-            path: 'https://www.bensound.com/bensound-music/bensound-ukulele.mp3'
+            name: 'Ngày đầu tiên',
+            singer: 'Đức Phúc',
+            image: 'https://data.chiasenhac.com/data/cover/155/154910.jpg',
+            path: 'https://data.chiasenhac.com/down2/2224/0/2223570-77fd7172/128/Ngay%20Dau%20Tien%20-%20Duc%20Phuc.mp3'
         },
         {
-            name: 'A new beginning',
-            singer: 'Benjamin',
-            image: 'https://www.bensound.com/bensound-img/anewbeginning.jpg',
-            path: 'https://www.bensound.com/bensound-music/bensound-anewbeginning.mp3'
+            name: 'Đau nhất là lặng im',
+            singer: 'Erik; Cukak',
+            image: 'https://data.chiasenhac.com/data/cover/157/156137.jpg',
+            path: 'https://data.chiasenhac.com/down2/2228/0/2227190-3da28ade/128/Dau%20Nhat%20La%20Lang%20Im%20Cukak%20Remix_%20-%20Erik_.mp3'
         },
         {
-            name: 'Jazzy frenchy',
-            singer: 'Benjamin',
-            image: 'https://www.bensound.com/bensound-img/jazzyfrenchy.jpg',
-            path: 'https://www.bensound.com/bensound-music/bensound-jazzyfrenchy.mp3'
+            name: 'Chìm Sâu',
+            singer: 'MCK; Trung Trần',
+            image: 'https://data.chiasenhac.com/data/cover/158/157044.jpg',
+            path: 'https://data.chiasenhac.com/down2/2230/0/2229564-d379b916/128/Chim%20Sau%20-%20MCK_%20Trung%20Tran.mp3'
         },
         {
-            name: 'Cute',
-            singer: 'Benjamin',
-            image: 'https://www.bensound.com/bensound-img/cute.jpg',
-            path: 'https://www.bensound.com/bensound-music/bensound-cute.mp3'
+            name: 'Anh Đã Lạc Vào',
+            singer: 'Green; Đại Mèo',
+            image: 'https://data.chiasenhac.com/data/cover/157/156870.jpg',
+            path: 'https://data.chiasenhac.com/down2/2230/0/2229102-d7c7ef68/128/Anh%20Da%20Lac%20Vao%20Dai%20Meo%20Remix_%20-%20Green_%20D.mp3'
         },
         {
-            name: 'Memories',
-            singer: 'Benjamin',
-            image: 'https://www.bensound.com/bensound-img/memories.jpg',
-            path: 'https://www.bensound.com/bensound-music/bensound-memories.mp3'
+            name: 'Hoa tàn tình tan',
+            singer: 'Giang Jolee',
+            image: 'https://data.chiasenhac.com/data/cover/154/153415.jpg',
+            path: 'https://data.chiasenhac.com/down2/2219/0/2218836-c7b66003/128/Hoa%20Tan%20Tinh%20Tan%20Haozi%20Remix_%20-%20Giang%20Jo.mp3'
         },
         {
-            name: 'Acoustic breeze',
-            singer: 'Benjamin',
-            image: 'https://www.bensound.com/bensound-img/acousticbreeze.jpg',
-            path: 'https://www.bensound.com/bensound-music/bensound-acousticbreeze.mp3'
+            name: 'Thay mọi cô gái yêu anh',
+            singer: 'AMee',
+            image: 'https://data.chiasenhac.com/data/cover/155/154598.jpg',
+            path: 'https://data.chiasenhac.com/down2/2223/0/2222497-0cc9e994/128/Thay%20Moi%20Co%20Gai%20Yeu%20Anh%20-%20AMee.mp3'
         },
         {
-            name: 'Sunny',
-            singer: 'Benjamin',
-            image: 'https://www.bensound.com/bensound-img/sunny.jpg',
-            path: 'https://www.bensound.com/bensound-music/bensound-sunny.mp3'
+            name: 'Chỉ muốn bên em thật gần',
+            singer: 'YLing; Star Online',
+            image: 'https://data.chiasenhac.com/data/cover/156/155301.jpg',
+            path: 'https://data.chiasenhac.com/down2/2225/0/2224980-e7f62e1c/128/Chi%20Muon%20Ben%20Em%20That%20Gan%20-%20YLing_%20Star%20O.mp3'
         },
         {
-            name: 'Funny song',
-            singer: 'Benjamin',
-            image: 'https://www.bensound.com/bensound-img/funnysong.jpg',
-            path: 'https://www.bensound.com/bensound-music/bensound-funnysong.mp3'
+            name: 'Chạy về nơi phía anh',
+            singer: 'Khắc Việt',
+            image: 'https://data.chiasenhac.com/data/cover/156/155099.jpg',
+            path: 'https://data.chiasenhac.com/down2/2225/0/2224332-7bf4caf7/128/Chay%20Ve%20Noi%20Phia%20Anh%20-%20Khac%20Viet.mp3'
         },
         {
-            name: 'Tomorrow',
-            singer: 'Benjamin',
-            image: 'https://www.bensound.com/bensound-img/tomorrow.jpg',
-            path: 'https://www.bensound.com/bensound-music/bensound-tomorrow.mp3'
+            name: 'Tình đơn côi',
+            singer: 'Vicky Nhung; Long Rex',
+            image: 'https://data.chiasenhac.com/data/cover/158/157112.jpg',
+            path: 'https://data.chiasenhac.com/down2/2230/0/2229752-0d0e7dff/128/Tinh%20Don%20Coi%20Lofi%20Version_%20-%20Vicky%20Nhung.mp3'
         },
         {
-            name: 'Once again',
-            singer: 'Benjamin',
-            image: 'https://www.bensound.com/bensound-img/onceagain.jpg',
-            path: 'https://www.bensound.com/bensound-music/bensound-onceagain.mp3'
+            name: 'Yêu đương khó quá thì chạy về khóc với anh',
+            singer: 'Erik',
+            image: 'https://data.chiasenhac.com/data/cover/155/154074.jpg',
+            path: 'https://data.chiasenhac.com/down2/2221/0/2220891-72ab7211/128/Yeu%20Duong%20Kho%20Qua%20Thi%20Chay%20Ve%20Khoc%20Voi%20A.mp3'
+        },
+        {
+            name: 'Đừng khiến trái tim em khóc',
+            singer: 'Chu Thúy Quỳnh; Trung Ngon',
+            image: 'https://data.chiasenhac.com/data/cover/154/153696.jpg',
+            path: 'https://data.chiasenhac.com/down2/2220/0/2219893-69b08713/128/Dung%20Khien%20Trai%20Tim%20Em%20Khoc%20-%20Chu%20Thuy%20Q.mp3'
+        },
+        {
+            name: 'Cổ tích',
+            singer: 'JSOL',
+            image: 'https://data.chiasenhac.com/data/cover/157/156805.jpg',
+            path: 'https://data.chiasenhac.com/down2/2229/0/2228955-bf5921bd/128/Co%20Tich%20-%20JSOL.mp3'
         }
     ],
     
