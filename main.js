@@ -165,6 +165,7 @@ const app = {
             if (_this.isPlaying) {
                 audio.pause();
             } else {
+                alert('Vì lý do bản quyền, toàn bộ link nhạc đã bị die');
                 _this.loadCurrentSong();
                 audio.play();
             };
@@ -223,6 +224,7 @@ const app = {
                 }
             };
             _this.loadCurrentSong();
+            alert('Vì lý do bản quyền, toàn bộ link nhạc đã bị die');
             audio.play();
         };
         // Click PrevBtn event
@@ -243,6 +245,7 @@ const app = {
                 }
             }
             _this.loadCurrentSong();
+            alert('Vì lý do bản quyền, toàn bộ link nhạc đã bị die');
             audio.play();
         };
 
@@ -347,6 +350,7 @@ const app = {
 
     // Start app
     start: function() {
+        alert('Vì lý do bản quyền, toàn bộ link nhạc đã bị die');
         // Load config
         this.loadConfig();
 
